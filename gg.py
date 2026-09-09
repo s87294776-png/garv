@@ -1,0 +1,15 @@
+import numpy as np
+data = [[34,56,78,22],[98,54,22,12,],[42,21,87,54,]]
+rs=np.array(data)
+av=np.mean(data)
+tp=np.sum(data)
+mini=np.min(data)
+maxi=np.max(data)
+print(av)
+print(tp)
+print(rs.dtype)
+print(rs.ndim)
+print(rs.shape)
+print(rs.size)
+print(mini)
+print(max)
