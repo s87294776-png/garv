@@ -23,3 +23,5 @@ elif(choice=="4"):
      print(div(a,b))
 else:
      print("invailid option")
+
+     print("Updated")
